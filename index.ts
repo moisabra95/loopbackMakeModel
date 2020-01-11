@@ -1,0 +1,7 @@
+export {Departamento,DepartamentoRelations,DepartamentoWithRelations} from './departamento.model'
+export {Empleado,EmpleadoRelations,EmpleadoWithRelations} from './empleado.model'
+export {Modulo,ModuloRelations,ModuloWithRelations} from './modulo.model'
+export {Pagina,PaginaRelations,PaginaWithRelations} from './pagina.model'
+export {PerfilPermiso,PerfilPermisoRelations,PerfilPermisoWithRelations} from './perfil-permiso.model'
+export {Perfile,PerfileRelations,PerfileWithRelations} from './perfile.model'
+export {Permiso,PermisoRelations,PermisoWithRelations} from './permiso.model'
